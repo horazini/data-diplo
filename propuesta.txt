@@ -1,0 +1,14 @@
+https://www.kaggle.com/datasets/prepinstaprime/black-friday-sales-data/data
+dataset de 
+resúmenes de compras mensuales 
+por clientes 
+de una tienda de electrodomésticos y artículos para el hogar.
+El dataset consta de 12 columnas y más de 550.000 filas.
+Las columnas incluyen datos demográficos de los clientes y detalles de los productos, 
+así como el monto total de compra durante el mes (variable objetivo).
+
+Mi idea general sería 
+hacer una categorización ordinal de la variable objetivo 
+para tener un problema de clasificación multiclase, 
+y así entrenar diferentes modelos de deep learning 
+enfocados en la predicción del rango del monto de compra en base al comportamiento del cliente.

@@ -1,0 +1,29 @@
+Duración: 24 horas
+Distribución: 4 horas semanales / 6 semanas
+
+El trabajo final es un proyecto individual bajo la supervisión de un tutor designado 
+que consistirá en el desarrollo de un sistema para el procesamiento de datos. 
+El tema será seleccionado por el/la estudiante de las opciones disponibles en la Diplomatura.
+El tema del proyecto final a elegir por el estudiante abarca un abanico de opciones en bases de datos 
+de distintas disciplinas para la predicción de series de tiempo, clasificación 
+de datos, procesamiento de lenguaje natural con transformers, aprendizaje profundo 
+para  clasificación de imágenes, predicción espacio-temporal con autoencoders. 
+También desafíos presentados por las empresas y organismos del gobierno que sean sponsors de la diplomatura.
+La primera semana del periodo del proyecto final está previsto el dictado de un taller de 2 horas 
+donde se expondrán metodologías ágiles de trabajo y herramientas de gestión de proyecto.
+
+El/la estudiante dispondrá de un mínimo de 6 semanas y un máximo de 6 meses 
+con un mínimo de 12 y un máximo de 24 horas de tutorías para el desarrollo del trabajo final. 
+El trabajo final será presentado en un informe de hasta 5 páginas y deberá ser
+expuesto en forma oral ante un tribunal designado por el Director.
+Objetivos de aprendizaje: El continuo avance del área exige de parte de los científicos de datos 
+una permanente actualización y aprendizaje de las nuevas tecnologías, 
+para esto es crucial fomentar el razonamiento independiente y pensamiento crítico. 
+El proyecto final tiene por objetivo que el/la estudiante se enfrente ante un desafío real
+del científico de datos: dada una base de datos de un proceso (en cualquier área del saber), 
+a través del análisis pormenorizado se debe definir el procesamiento, la exploración 
+y las técnicas de aprendizaje estadístico que se requieren aplicar a los datos 
+para sacar el máximo provecho a la información existente. 
+Para esto el/la estudiante deberá desarrollar y experimentar en forma independiente, 
+aunque guiado por el tutor con todo lo aprendido en los distintos módulos de la diplomatura
+para implementar técnicas y evaluar los resultados obtenidos.

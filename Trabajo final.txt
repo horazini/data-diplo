@@ -1,0 +1,92 @@
+
+                Trabajo final diplo
+
+tenemos que tener un TUTOR
+
+NO hacer serie de tiempo 
+(porque normalmente los dataset son pobres,
+hay muchas variables ocultas,, y
+los modelos no son de RN y los resultados son pobres)
+
+--------------------------------------------------------
+
+Usar GEMINI que parece que esta mejor entrenado para notebook
+
+--------------------------------------------------------
+
+Clase viernes Manuel 13
+Avisos del examen integrador final
+
+Tenemos 1 semana 
+para definir si queremos hacer un tema propio
+(proponer base de datos y conjunto de objetivos)
+
+"estaria bueno, los que tengan ganas,
+que tomen bases de datos propias, algo que les guste,
+y tratar de hacer todo lo posible para desarrollar en el area que les gusta"
+Nosotros evaluamos y confirmamos
+
+eventualmente para el que no tenga un proyecto propio
+le vamos a dar una lista de base de datos para trabajar
+
+La idea es que en este trabajo integren algo del modulo 5 o 6.
+Ya que no vamos a tomar trabajo particular del 5 y 6
+
+No esta definida exactamente la fecha pero queremos que sea en marzo,
+poner una fecha en marzo que vamos a definir adelante,
+para que trabajen durante todas las vacaciones
+
+
+
+de acuerdo a los temas que vayan eligiendo
+vamos a tratar de elegir un tutor.
+No creo que ninguno se vaya mucho tiempo de vacaciones
+no teman en escribirnos.
+
+
+
+tiene que ser una base que se pueda aplicar
+o redes profundas o aprendizaje no supervisado.
+Tambien esta bueno que apliquen metodos clasicos
+
+"Hay un monton de cosas en Kaggle, en la nube de Amazon"
+si quieren buscar cosas que le interesen sientanse libre
+
+Necesitamos antes de final de año ya tener definido en que va atrabajr cada uno
+y asingarles el tutor
+
+
+
+Marina:
+hasta el viernes que viene tienen teimpo de enviar mail los chicos
+que quieran trabajr con una base de datos propia.
+En caso que no manden se asigna una base ¿y un tutor? hasta antes de fin de año
+
+Pregunta alumno
+¿va a haber temas para poder reelegir, o se selecciona aleatoriamente?
+
+Rta manuel:
+vamos a pasar la lista como hemos hecho otras veces
+pero eso lo vamos a dejar para una 2da instancia
+xq me gustaria que uds terminen eligiendo algo que le interese a uds
+
+Tambien podian escribirnos si ustedes tienen algo y 
+no logran identificar la base o ese tipo de cuesitones
+pero tienen alguna inquietud
+
+
+
+Tambien podrian entrenar con una base de datos publica bien establecida
+y despues probar el modelo entrenado con material propio
+
+--------------------------------------------------------
+
+Damian Castro: 
+consulta, en el plan de estudios menciona lo siguiente:
+La primera semana del periodo del proyecto final está previsto el dictado de un taller de 2 horas donde se expondrán metodologías ágiles de trabajo y herramientas de gestión de proyecto.
+Esto va a realizarse el año que viene, o solo seria el seguimiento con tutores? gracias
+
+Marina Esquivel: 
+Hola Damian! Este taller se dictará el año que viene, en Febrero probablemente para que puedan tener estas herramientas para el desarrollo del Trabajo Final. En cuanto tengamos definida la fecha, les avisamos
+
+--------------------------------------------------------
